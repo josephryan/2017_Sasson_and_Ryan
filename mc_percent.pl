@@ -33,6 +33,7 @@ our $SKIP_LT25 = 0;
 our $SEED = 42;
 our $REPS = 10000;
 our $FILE = './alldata.txt';
+$FILE = $ARGV[0] if ($ARGV[0]);
 
 MAIN: {
     srand($SEED);
