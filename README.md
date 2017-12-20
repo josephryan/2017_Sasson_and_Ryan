@@ -15,6 +15,12 @@ Tab-delimited data from experiments with two size-matched individuals
 in two separate aquaria. This set includes all of the data in 11.txt plus
 three pairs where experiments were performed more than two weeks apart.
 
+## Sealed_barrier_arena_data.csv
+dates, sizes, and egg counts for the sealed barrier experiments
+
+## Solitary_paired_permeable_barrier_data.csv
+dates, sizes, and egg counts for solitary paired permable barrier experiments by block
+
 ## mc_percent.pl
 Script used to generate null distribution. 
 By default it prints out 10,000 sorted values using alldata.txt. 
