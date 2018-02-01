@@ -5,12 +5,11 @@ written by Joseph F. Ryan in April, 2017
 Tab-delimited data from experiments with permeable divider.
 Data used to determine number of samples per simulation.
 
-## 11.txt
-Tab-delimited data from experiments with two size-matched individuals 
-in two separate aquaria. Experiments were performed within two weeks
-of each other.
+## proportional_differences_sealed_permeable_solitarymatched.csv 
+Comma-separated data - proportional differences from experiments with two size-matched individuals 
+in sealed and unsealed divided aquaria. 
 
-## 14.txt
+## solitary_matched_egg_outputs.txt
 Tab-delimited data from experiments with two size-matched individuals 
 in two separate aquaria. This set includes all of the data in 11.txt plus
 three pairs where experiments were performed more than two weeks apart.
