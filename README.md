@@ -7,7 +7,7 @@ Data used to determine number of samples per simulation.
 
 ## proportional_differences_sealed_permeable_solitarymatched.csv 
 Comma-separated data - proportional differences from experiments with two size-matched individuals 
-in sealed and unsealed divided aquaria. 
+in sealed and unsealed divided aquaria. Includes solitary individuals used for supplemental analysis.
 
 ## solitary_matched_egg_outputs.txt
 Tab-delimited data from experiments with two size-matched individuals 
